@@ -20,7 +20,23 @@ Create an account on: https://mozillians.org/
 What next?
 
 ## Introduce Yourself on our Social Channels, Connect with People around you.
-* Telegram. https://t.me/MozillaIN
+We believe that starting a conversation is important, everywhere and these are the groups which are designed to encourage participation according to the interests/topics they are based on. There are General Groups and Topic-oriented Groups. Please choose the groups according to your interests and get in to know more. Make sure that you introduce yourself when you first start interacting in these groups.
+
+* Mozilla India: https://t.me/MozillaIN
+* Mozilla Gujarat: https://t.me/MozGuj
+* Mozillians: https://t.me/mozillian
+* Mozilla VR: https://t.me/MozillaVR
+* Mozilla Mixed Reality: https://t.me/MozillaReality
+* Mozilla Open Design: https://t.me/opendesign
+* Firefox Add-Ons Community: https://t.me/addonschat
+* Open Hardware India: https://t.me/openhardwareindia
+* Mozilla IoT: https://t.me/mozillaiot
+* Rust India: https://t.me/RustIndia
+* Participation Systems: https://t.me/participationsystems
+
+Please give the complete context while interacting on these groups and be respectful to everyone. You may read the Community Participation Guidelines here: https://www.mozilla.org/en-US/about/governance/policies/participation/
+
+If you want to report someone for not complying with the Community Participation Guidelines, you can report it here: https://www.mozilla.org/en-US/about/governance/policies/participation/
 
 ## We have a few different tracks based on which you can decide how and where you can contribute.
 
