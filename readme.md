@@ -57,3 +57,8 @@ If you want to report someone for not complying with the Community Participation
 * [Contribute to the Mozilla code base](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction)
 * [Find your first code contribution](http://codetribute.mozilla.org/)
 * [Web Compatibility Sprint](https://activate.mozilla.community/en-US/webcompat-sprint)
+
+## Want to know more about Mozilla? Sure you can by visiting to the Mozilla's Wiki and Discourse forum!
+
+* [Mozilla Discourse](https://discourse.mozilla.org/)
+* [MozillaWiki](https://wiki.mozilla.org/Main_Page)
